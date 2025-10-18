@@ -143,7 +143,7 @@ This repository demonstrates:
 ## **Highlights**  
 - **End-to-End Observability:** Full setup for monitoring a Flask app with Prometheus and Grafana.  
 - **Production-Ready Notes:** Includes steps for Minikube and considerations for scaling to production.  
-- **Beginner-Friendly Guide:** Clear instructions to help even first-time users.  
+- **Beginner-Friendly Guide:** Clear instructions to help even first-time users.   
 
 ---
 
